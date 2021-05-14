@@ -1,0 +1,511 @@
+name,type,course,price
+Angelica,Herbs and Spices,dessert,29
+Savoy cabbage,Vegetables,dessert,130
+Silver linden,Herbs and Spices,dessert,89
+Kiwi,Fruits,dessert,4
+Allium (Onion),Vegetables,dessert,36
+Garden onion,Vegetables,dessert,115
+Leek,Vegetables,dessert,65
+Garlic,Herbs and Spices,dessert,147
+Chives,Herbs and Spices,dessert,160
+Lemon verbena,Herbs and Spices,dessert,20
+Cashew nut,Nuts,dessert,71
+Pineapple,Fruits,dessert,112
+Dill,Herbs and Spices,dessert,157
+Custard apple,Fruits,dessert,189
+Wild celery,Herbs and Spices,dessert,109
+Peanut,Nuts,dessert,86
+Burdock,Vegetables,dessert,45
+Horseradish,Herbs and Spices,dessert,58
+Tarragon,Herbs and Spices,dessert,64
+Mugwort,Herbs and Spices,dessert,102
+Asparagus,Vegetables,dessert,28
+Oat,Cereals and cereal products,dessert,35
+Star fruit,Fruits,dessert,66
+Brazil nut,Nuts,dessert,71
+Common beet,Vegetables,dessert,162
+Borage,Herbs and Spices,dessert,193
+Chinese mustard,Vegetables,dessert,80
+Swede,Vegetables,dessert,87
+Rape,Vegetables,dessert,141
+Common cabbage,Vegetables,dessert,79
+Cauliflower,Vegetables,dessert,68
+Brussel sprouts,Vegetables,dessert,175
+Kohlrabi,Vegetables,dessert,135
+Broccoli,Vegetables,dessert,157
+Chinese cabbage,Vegetables,dessert,148
+Turnip,Herbs and Spices,dessert,34
+Pigeon pea,Pulses,dessert,61
+Tea,Teas,dessert,181
+Capers,Herbs and Spices,dessert,85
+Pepper (C. annuum),Vegetables,dessert,72
+Papaya,Fruits,dessert,176
+Safflower,Herbs and Spices,dessert,78
+Caraway,Herbs and Spices,dessert,164
+Pecan nut,Nuts,dessert,76
+Chestnut,Nuts,dessert,7
+Roman camomile,Herbs and Spices,dessert,200
+Chickpea,Pulses,main course,169
+Endive,Vegetables,dessert,146
+Chicory,Vegetables,dessert,11
+Chinese cinnamon,Herbs and Spices,dessert,91
+Ceylon cinnamon,Herbs and Spices,dessert,177
+Watermelon,Gourds,dessert,57
+Lime,Fruits,dessert,2
+Lemon,Fruits,dessert,200
+Pummelo,Fruits,dessert,198
+"Mandarin orange (Clementine, Tangerine)",Fruits,dessert,122
+Sweet orange,Fruits,dessert,2
+Coffee,Coffee and coffee products,dessert,22
+Arabica coffee,Coffee and coffee products,dessert,32
+Robusta coffee,Coffee and coffee products,dessert,176
+Coriander,Herbs and Spices,dessert,104
+Common hazelnut,Nuts,dessert,37
+Saffron,Herbs and Spices,dessert,122
+Muskmelon,Gourds,dessert,122
+Cucumber,Gourds,main course,48
+Cucurbita (Gourd),Gourds,main course,125
+Cumin,Herbs and Spices,dessert,114
+Turmeric,Herbs and Spices,main course,25
+Quince,Fruits,main course,93
+Lemon grass,Herbs and Spices,main course,148
+Globe artichoke,Vegetables,main course,131
+Wild carrot,Vegetables,main course,83
+Japanese persimmon,Fruits,main course,84
+Cardamom,Herbs and Spices,main course,26
+Black crowberry,Fruits,main course,6
+Loquat,Fruits,main course,18
+Rocket salad (ssp.),Vegetables,main course,1
+Wax apple,Fruits,main course,67
+Common buckwheat,Cereals and cereal products,main course,65
+Tartary buckwheat,Cereals and cereal products,main course,76
+Fig,Fruits,main course,90
+Fennel,Herbs and Spices,starter,170
+Strawberry,Fruits,main course,92
+Black huckleberry,Fruits,main course,101
+Soy bean,Soy,main course,23
+Sunflower,Herbs and Spices,main course,34
+Sea-buckthornberry,Fruits,main course,76
+Barley,Cereals and cereal products,main course,111
+Hyssop,Herbs and Spices,snack,29
+Star anise,Herbs and Spices,snack,121
+Swamp cabbage,Vegetables,snack,108
+Sweet potato,Vegetables,main course,18
+Black walnut,Nuts,main course,12
+Common walnut,Nuts,main course,91
+Lettuce,Vegetables,main course,184
+Grass pea,Pulses,main course,161
+Sweet bay,Herbs and Spices,dessert,93
+Lentils,Pulses,main course,196
+Garden cress,Vegetables,main course,34
+Lovage,Herbs and Spices,main course,196
+Flaxseed,Herbs and Spices,main course,115
+Mexican oregano,Herbs and Spices,main course,99
+Lichee,Fruits,main course,172
+Lupine,Pulses,main course,18
+Apple,Fruits,main course,171
+Mango,Fruits,main course,6
+German camomile,Herbs and Spices,main course,4
+Lemon balm,Herbs and Spices,main course,190
+Mentha (Mint),Herbs and Spices,main course,111
+Orange mint,Herbs and Spices,snack,114
+Cornmint,Herbs and Spices,dessert,121
+Spearmint,Herbs and Spices,snack,9
+Peppermint,Herbs and Spices,main course,142
+Medlar,Fruits,main course,123
+Bitter gourd,Gourds,main course,139
+Mulberry,Fruits,main course,169
+Black mulberry,Fruits,main course,129
+Nutmeg,Herbs and Spices,snack,50
+Sweet basil,Herbs and Spices,main course,192
+Evening primrose,Herbs and Spices,main course,73
+Olive,Vegetables,dessert,171
+Sweet marjoram,Herbs and Spices,main course,135
+Pot marjoram,Herbs and Spices,main course,100
+Common oregano,Herbs and Spices,starter,26
+Rice,Cereals and cereal products,snack,38
+Millet,Cereals and cereal products,main course,61
+Poppy,Herbs and Spices,main course,9
+Passion fruit,Fruits,main course,174
+Parsnip,Vegetables,snack,199
+Avocado,Vegetables,snack,29
+Parsley,Herbs and Spices,snack,39
+Scarlet bean,Pulses,snack,124
+Lima bean,Pulses,main course,91
+Common bean,Pulses,main course,122
+Date,Fruits,main course,121
+Black chokeberry,Fruits,main course,191
+Anise,Herbs and Spices,main course,44
+Pine nut,Nuts,main course,112
+Pepper (Spice),Herbs and Spices,main course,142
+Pistachio,Nuts,main course,5
+Common pea,Pulses,main course,43
+Purslane,Herbs and Spices,main course,96
+"Prunus (Cherry, Plum)",Fruits,main course,160
+Apricot,Fruits,main course,164
+Sweet cherry,Fruits,snack,150
+Sour cherry,Fruits,main course,5
+European plum,Fruits,main course,34
+Almond,Nuts,snack,131
+Peach,Fruits,main course,159
+Guava,Fruits,dessert,188
+Pomegranate,Fruits,main course,91
+Pear,Fruits,snack,198
+Radish,Vegetables,main course,105
+Garden rhubarb,Vegetables,main course,25
+Blackcurrant,Fruits,main course,68
+Redcurrant,Fruits,main course,185
+Gooseberry,Fruits,main course,70
+Watercress,Herbs and Spices,main course,87
+Rosemary,Herbs and Spices,main course,139
+"Rubus (Blackberry, Raspberry)",Fruits,main course,130
+Cloudberry,Fruits,main course,32
+Red raspberry,Fruits,snack,117
+Black raspberry,Fruits,snack,40
+Sorrel,Herbs and Spices,main course,3
+Common sage,Herbs and Spices,snack,82
+Black elderberry,Fruits,main course,47
+Summer savory,Herbs and Spices,main course,47
+Winter savory,Herbs and Spices,main course,95
+Rye,Cereals and cereal products,main course,115
+Sesame,Herbs and Spices,main course,49
+Garden tomato,Vegetables,dessert,161
+Cherry tomato,Vegetables,main course,81
+Garden tomato (var.),Vegetables,main course,111
+Eggplant,Vegetables,snack,35
+Potato,Vegetables,snack,48
+Rowanberry,Fruits,snack,143
+Sorghum,Cereals and cereal products,main course,45
+Spinach,Vegetables,main course,57
+Cloves,Herbs and Spices,snack,75
+Tamarind,Fruits,snack,99
+Dandelion,Herbs and Spices,main course,156
+Cocoa bean,Cocoa and cocoa products,snack,10
+Common thyme,Herbs and Spices,dessert,57
+Linden,Herbs and Spices,main course,189
+Small-leaf linden,Herbs and Spices,dessert,166
+Fenugreek,Herbs and Spices,snack,82
+Common wheat,Cereals and cereal products,snack,22
+"Vaccinium (Blueberry, Cranberry, Huckleberry)",Fruits,dessert,46
+Lowbush blueberry,Fruits,main course,36
+Sparkleberry,Fruits,main course,83
+Highbush blueberry,Fruits,main course,77
+American cranberry,Fruits,snack,166
+Bilberry,Fruits,snack,94
+Lingonberry,Fruits,snack,45
+Vanilla,Herbs and Spices,main course,126
+Common verbena,Herbs and Spices,main course,166
+Broad bean,Pulses,main course,190
+Adzuki bean,Pulses,dessert,73
+Gram bean,Pulses,snack,197
+Mung bean,Pulses,snack,112
+Climbing bean,Pulses,main course,56
+Cowpea,Pulses,main course,105
+Muscadine grape,Fruits,snack,19
+Common grape,Fruits,main course,40
+Corn,Cereals and cereal products,main course,104
+Ginger,Herbs and Spices,snack,45
+Arctic blackberry,Fruits,dessert,112
+Banana,Fruits,snack,191
+Bayberry,Fruits,main course,172
+Elliott's blueberry,Fruits,main course,108
+Canada blueberry,Fruits,main course,12
+Bog bilberry,Fruits,main course,113
+Buffalo currant,Fruits,snack,115
+Celeriac,Vegetables,snack,59
+Celery stalks,Vegetables,snack,82
+Chinese chives,Herbs and Spices,snack,26
+European cranberry,Fruits,snack,78
+Deerberry,Fruits,snack,102
+Ginseng,Herbs and Spices,main course,58
+Cascade huckleberry,Fruits,dessert,73
+Oval-leaf huckleberry,Fruits,dessert,18
+Evergreen huckleberry,Fruits,dessert,187
+Red huckleberry,Fruits,main course,124
+Longan,Fruits,main course,112
+Macadamia nut (M. tetraphylla),Nuts,main course,7
+Garden onion (var.),Vegetables,main course,126
+Summer grape,Fruits,main course,28
+Fox grape,Fruits,main course,134
+Nectarine,Fruits,main course,78
+Peach (var.),Fruits,main course,86
+Pepper (C. baccatum),Vegetables,main course,150
+Pepper (C. chinense),Vegetables,main course,116
+Pepper (Capsicum),Vegetables,main course,155
+Rambutan,Fruits,dessert,157
+Red rice,Cereals and cereal products,dessert,121
+Annual wild rice,Cereals and cereal products,main course,164
+Swiss chard,Vegetables,main course,63
+Lemon thyme,Herbs and Spices,main course,161
+Tronchuda cabbage,Vegetables,main course,47
+Japanese walnut,Nuts,main course,81
+Welsh onion,Herbs and Spices,main course,123
+Hard wheat,Cereals and cereal products,main course,187
+Shallot,Vegetables,main course,71
+Rocket salad,Vegetables,main course,30
+Carrot,Vegetables,main course,115
+Triticale,Cereals and cereal products,main course,199
+Black cabbage,Vegetables,dessert,123
+Half-highbush blueberry,Fruits,main course,90
+Celery leaves,Herbs and Spices,main course,6
+Chicory leaves,Vegetables,main course,153
+Komatsuna,Vegetables,dessert,137
+Pak choy,Vegetables,dessert,23
+Napa cabbage,Vegetables,dessert,16
+Chicory roots,Vegetables,dessert,198
+Grapefruit/Pummelo hybrid,Fruits,dessert,73
+Grapefruit,Fruits,dessert,100
+Jostaberry,Fruits,dessert,69
+Kai-lan,Vegetables,dessert,182
+Italian oregano,Herbs and Spices,dessert,154
+Oxheart cabbage,Vegetables,dessert,175
+Daikon radish,Vegetables,dessert,70
+Black radish,Vegetables,dessert,40
+Radish (var.),Vegetables,dessert,165
+Red beetroot,Vegetables,dessert,62
+Sweet rowanberry,Fruits,dessert,32
+Pineappple sage,Herbs and Spices,dessert,134
+Skunk currant,Fruits,dessert,86
+Beer,Beverages,dessert,44
+Other bread,Cereals and cereal products,dessert,99
+Breakfast cereal,Cereals and cereal products,dessert,84
+Other soy product,Soy,dessert,57
+Other cereal product,Cereals and cereal products,dessert,69
+Pasta,Cereals and cereal products,dessert,139
+Biscuit,Cereals and cereal products,dessert,1
+Sourdough,Cereals and cereal products,dessert,198
+Spirit,Beverages,dessert,125
+Fortified wine,Beverages,dessert,121
+Other alcoholic beverage,Beverages,dessert,36
+Abalone,Aquatic foods,dessert,125
+Abiyuch,Fruits,dessert,111
+Acerola,Fruits,dessert,38
+Acorn,Nuts,dessert,38
+Winter squash,Gourds,dessert,39
+Agar,Aquatic foods,dessert,121
+Red king crab,Aquatic foods,dessert,72
+Alfalfa,Herbs and Spices,dessert,142
+Allspice,Herbs and Spices,dessert,71
+Amaranth,Herbs and Spices,dessert,149
+Arrowhead,Vegetables,dessert,50
+Arrowroot,Vegetables,dessert,105
+Asian pear,Fruits,dessert,194
+Atlantic herring,Aquatic foods,dessert,159
+Atlantic mackerel,Aquatic foods,dessert,111
+Painted comber,Aquatic foods,dessert,117
+Atlantic pollock,Aquatic foods,dessert,141
+Atlantic wolffish,Aquatic foods,dessert,27
+Bamboo shoots,Vegetables,dessert,121
+Striped bass,Aquatic foods,dessert,45
+Beaver,Animal foods,dessert,9
+Beech nut,Nuts,dessert,66
+Beluga whale,Aquatic foods,dessert,11
+Bison,Animal foods,main course,156
+Black bear,Animal foods,dessert,78
+Alaska blackfish,Aquatic foods,dessert,102
+Blue crab,Aquatic foods,dessert,47
+Blue mussel,Aquatic foods,dessert,131
+Northern bluefin tuna,Aquatic foods,dessert,69
+Bluefish,Aquatic foods,dessert,47
+Wild boar,Animal foods,dessert,155
+Bowhead whale,Aquatic foods,dessert,192
+Breadfruit,Fruits,dessert,110
+Breadnut tree seed,Herbs and Spices,dessert,75
+Rapini,Vegetables,dessert,12
+Brown bear,Animal foods,dessert,42
+Buffalo,Animal foods,dessert,160
+Burbot,Aquatic foods,dessert,69
+Giant butterbur,Vegetables,dessert,137
+American butterfish,Aquatic foods,dessert,15
+Butternut,Nuts,dessert,79
+Butternut squash,Gourds,main course,182
+Calabash,Gourds,main course,172
+Cardoon,Vegetables,dessert,37
+Caribou,Animal foods,main course,101
+Natal plum,Fruits,main course,115
+Carob,Vegetables,main course,114
+Common carp,Aquatic foods,main course,56
+Cassava,Vegetables,main course,89
+Channel catfish,Aquatic foods,main course,13
+Chayote,Gourds,main course,30
+Cherimoya,Fruits,main course,142
+Chervil,Herbs and Spices,main course,46
+Chia,Herbs and Spices,main course,71
+"Chicken (Cock, Hen, Rooster)",Animal foods,main course,41
+Chinese broccoli,Vegetables,main course,194
+Chinese chestnut,Nuts,main course,47
+Chinese water chestnut,Vegetables,main course,97
+Garland chrysanthemum,Vegetables,starter,127
+Cisco,Aquatic foods,main course,71
+Nuttall cockle,Aquatic foods,main course,43
+Coconut,Fruits,main course,148
+Pacific cod,Aquatic foods,main course,104
+Atlantic cod,Aquatic foods,main course,140
+Common octopus,Aquatic foods,main course,73
+Corn salad,Vegetables,snack,132
+Cottonseed,Herbs and Spices,snack,73
+Catjang pea,Pulses,snack,194
+Malus (Crab apple),Fruits,main course,73
+Squashberry,Fruits,main course,112
+Atlantic croaker,Aquatic foods,main course,200
+Cusk,Aquatic foods,main course,148
+Cuttlefish,Aquatic foods,main course,7
+Mule deer,Animal foods,dessert,158
+Devilfish,Aquatic foods,main course,109
+Dock,Herbs and Spices,main course,71
+Dolphin fish,Aquatic foods,main course,18
+Freshwater drum,Aquatic foods,main course,58
+Mallard duck,Animal foods,main course,97
+Dungeness crab,Aquatic foods,main course,91
+Durian,Fruits,main course,182
+Eastern oyster,Aquatic foods,main course,169
+Freshwater eel,Aquatic foods,main course,4
+Elderberry,Fruits,main course,76
+Elk,Animal foods,main course,143
+Emu,Animal foods,main course,35
+Oregon yampah,Vegetables,snack,141
+European anchovy,Aquatic foods,dessert,196
+European chestnut,Nuts,snack,93
+Turbot,Aquatic foods,main course,116
+Fireweed,Herbs and Spices,main course,6
+Florida pompano,Aquatic foods,main course,9
+Ginkgo nuts,Herbs and Spices,main course,119
+Greylag goose,Animal foods,main course,122
+Grape,Fruits,snack,127
+Greenland halibut/turbot,Aquatic foods,main course,1
+Groundcherry,Vegetables,main course,43
+Grouper,Aquatic foods,dessert,162
+Guinea hen,Animal foods,main course,36
+Haddock,Aquatic foods,main course,34
+Hippoglossus (Common halibut),Aquatic foods,starter,182
+Hazelnut,Nuts,snack,127
+Hickory nut,Nuts,main course,134
+Horse,Animal foods,main course,167
+Horseradish tree,Vegetables,main course,134
+Alaska blueberry,Fruits,snack,195
+Hyacinth bean,Pulses,snack,123
+Irish moss,Aquatic foods,snack,67
+Pacific jack mackerel,Aquatic foods,snack,164
+Jackfruit,Fruits,main course,153
+Japanese chestnut,Nuts,main course,162
+Java plum,Fruits,main course,99
+Jerusalem artichoke,Vegetables,main course,182
+Jujube,Fruits,main course,54
+Jute,Vegetables,main course,78
+Kale,Vegetables,main course,61
+Kelp,Aquatic foods,main course,136
+King mackerel,Aquatic foods,main course,136
+Kumquat,Fruits,main course,88
+Lambsquarters,Vegetables,main course,27
+Leather chiton,Aquatic foods,main course,102
+Wild leek,Vegetables,snack,109
+Common ling,Aquatic foods,main course,17
+Lingcod,Aquatic foods,main course,162
+American lobster,Aquatic foods,snack,84
+Loganberry,Fruits,main course,91
+Lotus,Herbs and Spices,dessert,27
+Sacred lotus,Vegetables,main course,69
+White lupine,Pulses,snack,25
+Malabar spinach,Vegetables,main course,89
+Mammee apple,Fruits,main course,180
+Purple mangosteen,Fruits,main course,55
+Alpine sweetvetch,Vegetables,main course,36
+Milkfish,Aquatic foods,main course,139
+Monkfish,Aquatic foods,main course,57
+Moose,Animal foods,main course,0
+Moth bean,Pulses,main course,178
+Mountain yam,Vegetables,main course,174
+Striped mullet,Aquatic foods,snack,191
+Muskrat,Animal foods,snack,79
+White mustard,Herbs and Spices,main course,173
+Mustard spinach,Vegetables,snack,40
+New Zealand spinach,Vegetables,main course,57
+Nopal,Vegetables,main course,140
+Ocean pout,Aquatic foods,main course,30
+North Pacific giant octopus,Aquatic foods,main course,200
+Ohelo berry,Fruits,main course,49
+Okra,Vegetables,dessert,4
+Tunicate,Aquatic foods,main course,41
+Opossum,Animal foods,main course,185
+Ostrich,Animal foods,snack,132
+Spotted seal,Aquatic foods,snack,116
+Pacific herring,Aquatic foods,snack,124
+Pacific oyster,Aquatic foods,main course,90
+Pacific rockfish,Aquatic foods,main course,177
+Velvet duck,Animal foods,snack,44
+Pepper (C. frutescens),Vegetables,snack,20
+Common persimmon,Fruits,main course,81
+Pheasant,Animal foods,snack,188
+Northern pike,Aquatic foods,dessert,108
+Pili nut,Nuts,main course,62
+Colorado pinyon,Nuts,dessert,110
+Pitanga,Fruits,snack,108
+Plains prickly pear,Fruits,snack,188
+French plantain,Fruits,dessert,49
+American pokeweed,Vegetables,main course,23
+Polar bear,Animal foods,main course,172
+Opium poppy,Herbs and Spices,main course,199
+Prairie turnip,Vegetables,snack,111
+Prickly pear,Fruits,snack,125
+Quinoa,Herbs and Spices,snack,139
+European rabbit,Animal foods,main course,161
+Raccoon,Animal foods,main course,169
+Rainbow smelt,Aquatic foods,main course,57
+Rainbow trout,Aquatic foods,dessert,14
+Malabar plum,Fruits,snack,1
+Rose hip,Herbs and Spices,snack,54
+Roselle,Herbs and Spices,main course,73
+Orange roughy,Aquatic foods,main course,3
+Sablefish,Aquatic foods,snack,179
+Pink salmon,Aquatic foods,main course,35
+Chum salmon,Aquatic foods,main course,129
+Coho salmon,Aquatic foods,snack,72
+Sockeye salmon,Aquatic foods,dessert,157
+Chinook salmon,Aquatic foods,snack,45
+Atlantic salmon,Aquatic foods,main course,134
+Salmonberry,Fruits,main course,157
+Common salsify,Vegetables,main course,143
+Sapodilla,Fruits,main course,48
+Mamey sapote,Fruits,snack,157
+Spanish mackerel,Aquatic foods,snack,111
+Pacific sardine,Aquatic foods,snack,49
+Scallop,Aquatic foods,snack,190
+Scup,Aquatic foods,snack,101
+Sea cucumber,Aquatic foods,snack,139
+Steller sea lion,Aquatic foods,main course,1
+Bearded seal,Aquatic foods,dessert,46
+Ringed seal,Aquatic foods,dessert,104
+Seatrout,Aquatic foods,dessert,134
+Sesbania flower,Vegetables,main course,200
+American shad,Aquatic foods,main course,86
+Shark,Aquatic foods,main course,140
+Sheefish,Aquatic foods,main course,90
+"Sheep (Mutton, Lamb)",Animal foods,main course,190
+Sheepshead,Aquatic foods,main course,88
+Hedge mustard,Herbs and Spices,main course,162
+Skipjack tuna,Aquatic foods,main course,90
+Snapper,Aquatic foods,main course,85
+Soursop,Fruits,main course,98
+Spelt,Cereals and cereal products,main course,174
+Spirulina,Aquatic foods,dessert,50
+Squab,Animal foods,dessert,167
+Squirrel,Animal foods,main course,158
+Strawberry guava,Fruits,main course,140
+Greater sturgeon,Aquatic foods,main course,19
+White sucker,Aquatic foods,main course,57
+Sugar apple,Fruits,main course,177
+Pumpkinseed sunfish,Aquatic foods,main course,180
+Swordfish,Aquatic foods,main course,22
+Taro,Vegetables,main course,140
+Teff,Herbs and Spices,main course,181
+Tilefish,Aquatic foods,main course,26
+Mexican groundcherry,Vegetables,main course,145
+Towel gourd,Gourds,dessert,121
+"Salmonidae (Salmon, Trout)",Aquatic foods,main course,113
+Turkey,Animal foods,main course,135
+"Cattle (Beef, Veal)",Animal foods,main course,7
+Walleye,Aquatic foods,dessert,0
+Alaska pollock,Aquatic foods,dessert,94
+Wasabi,Herbs and Spices,dessert,145
+Wax gourd,Gourds,dessert,47
+Whelk,Aquatic foods,dessert,32

@@ -1,0 +1,175 @@
+{
+	"variables": [],
+	"info": {
+		"name": "orders",
+		"_postman_id": "50f4f970-8480-dd4f-bc1a-ead9d8ec2071",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "reload database",
+			"request": {
+				"url": "http://localhost:3000/config/reload",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "add item",
+			"request": {
+				"url": "http://localhost:3000/items",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"maggi\",\r\n    \"type\" : \"snack\",\r\n    \"course\" : \"global\",\r\n    \"price\" : \"100\"\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "add multiple items",
+			"request": {
+				"url": "http://localhost:3000/items",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\n\t{\n    \"name\" : \"soup\",\n    \"type\" : \"snack\",\n    \"course\" : \"global\",\n    \"price\" : \"100\"\n\t},\n\t{\n    \"name\" : \"sandwhich\",\n    \"type\" : \"snack\",\n    \"course\" : \"global\",\n    \"price\" : \"50\"\n\t},\n\t{\n    \"name\" : \"tea\",\n    \"type\" : \"beverage\",\n    \"course\" : \"global\",\n    \"price\" : \"50\"\n\t}\n]"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get item by id",
+			"request": {
+				"url": "http://localhost:3000/items/609eb30560b44f04ec99ea52",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "update single items",
+			"request": {
+				"url": "http://localhost:3000/items/609eb30560b44f04ec99ea53",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"name\": \"sandwich\",\n        \"type\": \"snack\",\n        \"course\": \"global\",\n        \"price\": \"50\"\n    }"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "query the items",
+			"request": {
+				"url": "http://localhost:3000/items/query",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"search\":{\n\t\t\"type\": \"Fruits\",\n\t\t \"course\": \"dessert\"\n\t},\n    \"sort\":{\n        \"name\": 1\n    },\n    \"page\":\"1\",\n    \"size\":\"10\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "add inventory",
+			"request": {
+				"url": "http://localhost:3000/inventory",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"items\":[\n\t {\n        \"itemName\": \"soup\",\n        \"itemId\": \"609eb30560b44f04ec99ea52\",\n        \"quantity\":100\n    },\n    {\n        \"itemName\": \"sandwich\",\n        \"itemId\": \"609eb30560b44f04ec99ea53\",\n        \"quantity\":40\n    }\n   ]\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get all inventories",
+			"request": {
+				"url": "http://localhost:3000/inventory",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get inventory by id",
+			"request": {
+				"url": "http://localhost:3000/inventory/609ee46b21b5a721d031af79",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "create an order",
+			"request": {
+				"url": "http://localhost:3000/orders",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"items\":[\r\n        {\r\n            \"itemId\":\"609eb30560b44f04ec99ea52\",\r\n            \"itemName\":\"soup\",\r\n            \"quantity\": 40\r\n        },\r\n        {\r\n            \"itemId\":\"609eb30560b44f04ec99ea53\",\r\n            \"itemName\":\"sandwich\",\r\n            \"quantity\": 30\r\n        }\r\n    ]\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
